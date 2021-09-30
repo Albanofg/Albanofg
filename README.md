@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Albanofg
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning javaSript, HTML:5 and CSS3
+- 💞️ I’m looking to collaborate on everything, actually, if it helps to grow and learn, It's welcomed
+- 📫 How to reach me gonzalezalbanof@gmail.com
