@@ -3,5 +3,5 @@
 - 🕵🏻 Also completed a course on Cybersecurity and I'm loving it
 - 🌱 Currently learning some backend skills in Python and NodeJS 
 - 💞️ Looking to collaborate on everything, actually, if it helps to grow and learn, It's welcome
-- 📫 How to reach me? gonzalezalbanof@gmail.com or [https://www.linkedin.com/in/albano-gonzalez-8a3492226/](https://www.linkedin.com/in/albanofgonzalez/)
+- 📫 How to reach me? gonzalezalbanof@gmail.com or https://www.linkedin.com/in/albanofgonzalez/
 - 👌🏻 Fully bilingual can write and speak english & spanish fluently 
