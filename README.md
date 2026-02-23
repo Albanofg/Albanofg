@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Albanofg
-- 👀 I’m interested in web and app development working on my skills on HTML, CSS, JavaScript, ReactJS & React Native
-- 🕵🏻 Also completed a course on Cybersecurity and I'm loving it
-- 🌱 Currently learning some backend skills in Python and NodeJS 
-- 💞️ Looking to collaborate on everything, actually, if it helps to grow and learn, It's welcome
-- 📫 How to reach me? [email me here](mailto:gonzalezalbanof@gmail.com) or add me on [linkedIn](https://www.linkedin.com/in/albanofgonzalez/)
-- 👌🏻 Fully bilingual can write and speak english & spanish fluently 
+💻 Web Dev | 🔐 CySec Analyst | 🤖 Automation Junkie
+JS • React • Python • N8N • BigQuery
+Building AI workflows that actually ship.
